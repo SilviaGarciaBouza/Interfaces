@@ -1,5 +1,3 @@
-import 'dart:io';
-
 void main() {
   final currentDate = DateTime.now();
   print('Current year: ${currentDate.year}');
